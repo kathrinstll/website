@@ -29,6 +29,13 @@ body {
   justify-content: center;
   align-items: center; }
 
+.a {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: red;
+  text-decoration: none;
+  color: whitesmoke; }
+
 .footer {
   display: flex;
   align-items: center; }
